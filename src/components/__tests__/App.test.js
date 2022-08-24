@@ -4,6 +4,12 @@ import App from "components/App";
 import CommentBox from "components/CommentBox";
 import CommentList from "components/CommentList";
 
+/**
+ * responsibilities of App component
+ * - display CommentBox component
+ * - display CommentList component
+ */
+
 let wrapped
 
 beforeEach(() => {
